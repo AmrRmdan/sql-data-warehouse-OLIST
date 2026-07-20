@@ -35,5 +35,4 @@ Based on standard DataOps and production-level engineering layouts:
 │   ├── bronze/        # Raw data ingestion & landing scripts
 │   ├── silver/        # Data cleansing, encoding resolution, & deduplication
 │   └── gold/          # Dimensional modeling (Star Schema, dim_date, fact tables)
-├── tests/             # Pipeline quality assurance and data validation checks
 └── README.md          # Main project documentation
